@@ -1963,7 +1963,7 @@ Scheme
 			"1"
 			{
 				"name"		"Stratum2-MonoRegular"
-				"tall"		"9"
+				"tall"		"7"
 				"weight"		"900"
 				"antialias"	"1"
 			}
@@ -1973,7 +1973,7 @@ Scheme
 			"1"
 			{
 				"name"		"Stratum2-Regular"
-				"tall"		"8"
+				"tall"		"7"
 				"weight"		"0"
 				"antialias"	"1"
 			}
@@ -1993,7 +1993,7 @@ Scheme
 			"1"
 			{
 				"name"		"Stratum2-MonoBold"
-				"tall"		"30"
+				"tall"		"22"
 				"weight"		"0"
 				"antialias"	"1"
 				"dropshadow"	"1"
