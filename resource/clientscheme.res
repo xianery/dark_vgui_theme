@@ -1692,14 +1692,7 @@ Scheme
 			"1"
 			{
 				"name"		"Stratum2-Bold"
-				"tall"		"10"
-				"weight"		"500"
-				"antialias"	"1"
-			}
-			"2"
-			{
-				"name"		"Stratum2-Bold"
-				"tall"		"10"
+				"tall"		"9"
 				"weight"		"500"
 				"antialias"	"1"
 			}
@@ -1709,7 +1702,7 @@ Scheme
 			"1"
 			{
 				"name"		"Stratum2-MonoBold"
-				"tall"		"36"
+				"tall"		"30"
 				"weight"		"0"
 				"antialias"	"1"
 			}
@@ -1736,7 +1729,7 @@ Scheme
 			"1"
 			{
 				"name"		"Stratum2-MonoBold"
-				"tall"		"18"
+				"tall"		"14"
 				"weight"		"0"
 				"antialias"	"1"
 			}
@@ -1746,7 +1739,7 @@ Scheme
 			"1"
 			{
 				"name"		"Stratum2-Medium"
-				"tall"		"11"
+				"tall"		"10"
 				"weight"		"0"
 				"antialias"	"1"
 			}
