@@ -242,7 +242,7 @@ Scheme
 
 		// Hint message colors
 		"HintMessageFg"			"255 255 255 255"
-		"HintMessageBg" 		"0 0 0 60"
+		"HintMessageBg" 		"0 0 0 185"
 
 		"ProgressBarFg"			"255 30 13 255"
 
@@ -264,12 +264,12 @@ Scheme
 		// Top-left corner of the menu on the main screen
 		"Main.Menu.X"				"120"
 		"Main.Menu.Y"				"216"
-		"Main.Menu.Width"			"192" // it will scale up if its too short to show all content
-		"Main.Menu.BgColor"		"0 0 0 100"
+		"Main.Menu.Width"			"220" // it will scale up if its too short to show all content
+		"Main.Menu.BgColor"		"0 0 0 150"
 		"Main.Menu.IsProportional"	"1" // determines how Main.Menu.Width is calculated
 
 		// Blank space to leave beneath the menu on the main screen
-		"Main.BottomBorder"	"32"
+		"Main.BottomBorder"	"0"
 	}
 
 	//
@@ -1197,16 +1197,9 @@ Scheme
 			"1"
 			{
 				"name"		"Stratum2-Regular"
-				"tall"		"12"
-				"antialias"	"1"
-				"dropshadow"	"1"
-			}
-			"2"
-			{
-				"name"		"Stratum2-Regular"
-				"tall"		"12"
-				"antialias"	"1"
-				"dropshadow"	"1"
+				"tall"		"10"
+				"antialias"	"0"
+				"dropshadow"	"0"
 			}
 		}
 		"Trebuchet24"

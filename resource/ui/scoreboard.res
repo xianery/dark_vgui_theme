@@ -41,7 +41,7 @@
 		"fieldName"			"GameModeIcon"
 		"xpos"				"w26"
 		"ypos"				"26"
-		"wide"				"w28"
+		"wide"				"w20"
 		"tall"				"0"
 		"base_resolution_wide" "1920"
 		"base_resolution_tall" "1080"
@@ -132,7 +132,7 @@
 		"base_resolution_tall" "1080"
 		"fgcolor_override"	"255 255 255 56"
 
-		"image"				"materials/vgui/hud/svg/ct_logo.svg"
+		//"image"				"materials/vgui/hud/svg/ct_logo.svg"
 	}
 	"TeamCTScore"
 	{
@@ -435,7 +435,7 @@
 		"pin_corner_to_sibling"	"0"
 		"pin_to_sibling_corner"	"2"
 
-		"image"				"materials/vgui/hud/svg/t_logo.svg"
+		// "image"				"materials/vgui/hud/svg/t_logo.svg"
 	}
 	"TeamTScore"
 	{

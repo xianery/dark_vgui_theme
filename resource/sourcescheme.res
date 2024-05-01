@@ -192,9 +192,9 @@ Scheme
 		MainMenu.TextColor						"White"				
 		MainMenu.ArmedTextColor					"200 200 200 255"	
 		MainMenu.DepressedTextColor				"192 186 80 255"
-		MainMenu.MenuItemHeight					"30"				
+		MainMenu.MenuItemHeight					"50"				
 		MainMenu.Inset							"32"
-		MainMenu.Backdrop						"0 0 0 156"
+		MainMenu.Backdrop						"0 0 0 1"
 
 		Console.TextColor						"OffWhite"
 		Console.DevTextColor					"White"
@@ -340,7 +340,7 @@ Scheme
 			{
 				"name"		"Stratum2-Regular"
 				"tall"			"20"
-				"antialias" "1"
+				"antialias" "0"
 			}
 		}
 		"AchievementTitleFont"

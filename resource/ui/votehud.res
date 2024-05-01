@@ -95,7 +95,7 @@
 			"dulltext"		"0"
 			"brighttext"		"0"
 			"wrap"			"1"
-			"fgcolor_override"	"Orange"
+			"fgcolor_override"	"White"
 		}
 		
 		"Issue"
@@ -141,7 +141,7 @@
 			"ypos"			"50"
 			"wide"			"130"
 			"tall"			"1"
-			"fillcolor"		"Orange"
+			"fillcolor"		"White"
 			"zpos"			"0"
 		}
 		
@@ -174,7 +174,7 @@
 			"wide"			"130"
 			"tall"			"16"
 			"zpos"			"1"
-			"fillcolor"		"OrangeDim"
+			"fillcolor"		"WhiteDim"
 			"visible"		"1"
 		}
 		
@@ -223,7 +223,7 @@
 			"wide"			"130"
 			"tall"			"16"
 			"zpos"			"1"
-			"fillcolor"		"OrangeDim"
+			"fillcolor"		"WhiteDim"
 			"visible"		"1"
 		}
 		
@@ -272,7 +272,7 @@
 			"wide"			"130"
 			"tall"			"16"
 			"zpos"			"1"
-			"fillcolor"		"OrangeDim"
+			"fillcolor"		"WhiteDim"
 			"visible"		"0"
 		}
 		
@@ -303,7 +303,7 @@
 			"wide"			"130"
 			"tall"			"16"
 			"zpos"			"1"
-			"fillcolor"		"OrangeDim"
+			"fillcolor"		"WhiteDim"
 			"visible"		"0"
 		}
 		
@@ -334,7 +334,7 @@
 			"wide"			"130"
 			"tall"			"16"
 			"zpos"			"1"
-			"fillcolor"		"OrangeDim"
+			"fillcolor"		"WhiteDim"
 			"visible"		"0"
 		}
 		
@@ -347,7 +347,7 @@
 			"ypos"			"100"
 			"wide"			"130"
 			"tall"			"1"
-			"fillcolor"		"Orange"
+			"fillcolor"		"White"
 			"zpos"			"0"
 		}
 		
@@ -365,7 +365,7 @@
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"fgcolor_override"	"Orange"
+			"fgcolor_override"	"White"
 		}
 		
 		// vote bar
@@ -529,14 +529,14 @@
 		"wide"				"400"
 		"tall"				"310"
 		"autoResize"		"0"
-		"pinCorner"			"0"
+		"pinCorner"			"1"
 		"visible"			"1"
 		"enabled"			"1"
 		"tabPosition"		"0"
 		"settitlebarvisible"	"0"
 
 		"header_font"		"DefaultLarge"
-		"header_fgcolor"	"Orange"
+		"header_fgcolor"	"White"
 
 		"issue_width"		"180"
 		"issue_font"		"Default"

@@ -84,17 +84,6 @@
 	}
 	"9"
 	{
-		"label" "#GameUI_GameMenu_BotTraining"
-		"command" "engine map aimbotz"
-		"OnlyInGame" "0"
-		"textAlignment" "west"
-		"PaintBackgroundType" "3"
-		"armedBgColor_override" "255 255 255 32"
-		"textinsetx" "8"
-		"textinsety" "0"
-	}
-	"10"
-	{
 		"label" "#GameUI_GameMenu_Options"
 		"command" "OpenOptionsDialog"
 		"textAlignment" "west"
@@ -103,7 +92,7 @@
 		"textinsetx" "8"
 		"textinsety" "0"
 	}
-	"11"
+	"10"
 	{
 		"label" "#GameUI_GameMenu_Mod_Options"
 		"command" "OpenModOptionsDialog"
@@ -113,10 +102,10 @@
 		"textinsetx" "8"
 		"textinsety" "0"
 	}
-	"12"
+	"11"
 	{
 		"label" "#GameUI_GameMenu_Quit"
-		"command" "Quit"
+		"command" "engine exit"
 		"textAlignment" "west"
 		"PaintBackgroundType" "3"
 		"armedBgColor_override" "255 255 255 32"

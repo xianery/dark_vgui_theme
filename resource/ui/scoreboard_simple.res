@@ -47,7 +47,7 @@
 		"fieldName"			"RoundTimeLabel"
 		"xpos"				"w754"
 		"ypos"				"26"
-		"wide"				"w96"
+		"wide"				"w82"
 		"tall"				"16"
 		"base_resolution_wide"	"1920"
 		"base_resolution_tall"	"1080"
